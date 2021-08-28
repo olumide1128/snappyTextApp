@@ -48,9 +48,9 @@ Snappy Text is an app which makes it easier and faster to transfer text from pho
    file called 'serverFile.txt' in the directory >> root\\Documents.
 
 
-9. Now, anytime you want to send a text from your phone to your pc, just connect your network, turn on your FTP server, put the
-   text in the 'serverFile.txt' file found the 'root\\Documents' directory then go over to your pc, turn on 'snappyText' App 
-   and click 'RECEIVE TEXT'. The text would display on the Textbox.
+9. Now, anytime you want to send a text from your phone to your pc, just connect your phone and pc on the same network, turn on 
+   your FTP server, put the text in the 'serverFile.txt' file found the 'root\\Documents' directory then go over to your pc, turn 
+   on 'snappyText' App and click 'RECEIVE TEXT'. The text would display on the Textbox.
    
    
   
