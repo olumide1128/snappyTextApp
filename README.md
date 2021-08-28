@@ -22,7 +22,7 @@ Snappy Text is an app which makes it easier and faster to transfer text from pho
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/59411943/131224951-d4bc7bbe-b580-4200-9271-34e1c0398a53.jpg)
 
-3. Before Clicking Start, first go to settings at the top-left, a screen would pop up, click "Port Number" and set the port to 1200.
+3. Before Clicking Start, first go to settings at the top-right, a screen would pop up, click "Port Number" and set the port to 1200.
    (You only have to do this once).
 
 ![Webp net-resizeimage](https://user-images.githubusercontent.com/59411943/131225142-80709376-7094-4ad7-aa95-ba58517f457e.jpg)        ![Webp net-resizeimage](https://user-images.githubusercontent.com/59411943/131225256-9a390b61-42af-4833-b8ed-44f5de1771e4.jpg)
